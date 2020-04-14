@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-04-14_1520",
+    "name": "Tonight",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -24,7 +24,7 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
@@ -43,6 +43,14 @@
         "file": "@PROJECT_PATH@/fonts/So%CC%88hneBreitTest-Extrafett/font.ttf"
       }
     ],
+    "favicon": "@PROJECT_PATH@/assets/images/curto-preto-branco.png",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 1,
     "versionPublish": "4.12.0"
   },
